@@ -1,0 +1,106 @@
+{
+  "Alzheimer's Disease": {
+    "proteins": ["Amyloid-beta (Aβ)", "Tau protein", "Presenilin-1", "Presenilin-2"],
+    "description": "Protein misfolding leads to formation of amyloid plaques and neurofibrillary tangles, causing progressive neurodegeneration and cognitive decline.",
+    "mechanism": "Aβ peptides aggregate into toxic oligomers and plaques. Tau protein becomes hyperphosphorylated and forms tangles, disrupting neuronal function.",
+    "symptoms": ["Memory loss", "Cognitive decline", "Confusion", "Behavioral changes", "Language problems"],
+    "treatments": {
+      "approved": ["Cholinesterase inhibitors (Donepezil, Rivastigmine, Galantamine)", "NMDA receptor antagonist (Memantine)", "Aducanumab (anti-Aβ antibody)", "Lecanemab (anti-Aβ antibody)"],
+      "experimental": ["Tau-targeting therapies", "Anti-inflammatory drugs", "Neuroprotective agents", "Gene therapy"],
+      "status": "Partially treatable - can slow progression but no cure"
+    },
+    "prevalence": "50 million worldwide",
+    "research_status": "Active - multiple clinical trials ongoing"
+  },
+  "Parkinson's Disease": {
+    "proteins": ["α-synuclein", "Parkin", "PINK1", "DJ-1", "LRRK2"],
+    "description": "Misfolding and aggregation of α-synuclein into Lewy bodies causes degeneration of dopaminergic neurons in the substantia nigra.",
+    "mechanism": "α-synuclein misfolds and aggregates, forming toxic oligomers and Lewy bodies that disrupt cellular function and cause neuronal death.",
+    "symptoms": ["Tremor", "Rigidity", "Bradykinesia", "Postural instability", "Non-motor symptoms"],
+    "treatments": {
+      "approved": ["Levodopa (L-DOPA)", "Dopamine agonists (Pramipexole, Ropinirole)", "MAO-B inhibitors (Selegiline, Rasagiline)", "COMT inhibitors (Entacapone)", "Deep brain stimulation (DBS)"],
+      "experimental": ["α-synuclein antibodies", "Gene therapy", "Stem cell therapy", "Neuroprotective compounds"],
+      "status": "Treatable - symptoms can be managed effectively"
+    },
+    "prevalence": "10 million worldwide",
+    "research_status": "Active - focus on disease-modifying therapies"
+  },
+  "Huntington's Disease": {
+    "proteins": ["Huntingtin (mHTT) with CAG repeat expansion"],
+    "description": "Genetic mutation causes expanded polyglutamine tract in huntingtin protein, leading to misfolding, aggregation, and neuronal dysfunction.",
+    "mechanism": "CAG repeat expansion (>36 repeats) produces mutant huntingtin with abnormal polyglutamine tract, causing protein aggregation and cellular toxicity.",
+    "symptoms": ["Chorea (involuntary movements)", "Cognitive decline", "Psychiatric symptoms", "Motor impairment"],
+    "treatments": {
+      "approved": ["Tetrabenazine (for chorea)", "Deutetrabenazine (for chorea)", "Antipsychotics for psychiatric symptoms", "Antidepressants"],
+      "experimental": ["Huntingtin-lowering therapies (ASOs)", "Gene silencing (RNAi)", "CRISPR gene editing", "Neuroprotective agents"],
+      "status": "Symptom management only - no disease-modifying treatment approved yet"
+    },
+    "prevalence": "30,000 in USA",
+    "research_status": "Very active - huntingtin-lowering therapies in trials"
+  },
+  "Amyotrophic Lateral Sclerosis (ALS)": {
+    "proteins": ["SOD1 (Superoxide dismutase 1)", "TDP-43", "FUS", "C9orf72"],
+    "description": "Protein misfolding and aggregation cause progressive degeneration of motor neurons, leading to muscle weakness and paralysis.",
+    "mechanism": "Mutant proteins (especially SOD1 and TDP-43) misfold and aggregate, causing motor neuron toxicity through multiple pathways including oxidative stress.",
+    "symptoms": ["Muscle weakness", "Atrophy", "Fasciculations", "Difficulty speaking/swallowing", "Respiratory failure"],
+    "treatments": {
+      "approved": ["Riluzole (extends survival ~3 months)", "Edaravone (slows functional decline)", "Tofersen (for SOD1 mutations)", "AMX0035 (Relyvrio)"],
+      "experimental": ["Gene therapy", "Stem cell therapy", "Anti-inflammatory drugs", "Neuroprotective compounds"],
+      "status": "Limited treatment - can slow progression slightly"
+    },
+    "prevalence": "450,000 worldwide",
+    "research_status": "Active - multiple therapeutic approaches being tested"
+  },
+  "Prion Diseases": {
+    "proteins": ["Prion protein (PrP)"],
+    "description": "Infectious misfolding of prion protein (PrP^C to PrP^Sc) causes transmissible spongiform encephalopathies with rapid neurodegeneration.",
+    "mechanism": "Misfolded PrP^Sc converts normal PrP^C into pathological form in autocatalytic process, forming aggregates and causing neuronal damage.",
+    "symptoms": ["Rapidly progressive dementia", "Ataxia", "Myoclonus", "Psychiatric symptoms", "Fatal outcome"],
+    "treatments": {
+      "approved": [],
+      "experimental": ["Quinacrine", "Pentosan polysulfate", "Immunotherapy", "Small molecule inhibitors"],
+      "status": "No effective treatment - universally fatal"
+    },
+    "prevalence": "1-2 per million annually",
+    "research_status": "Active - search for disease-modifying therapies"
+  },
+  "Type 2 Diabetes": {
+    "proteins": ["Islet amyloid polypeptide (IAPP/Amylin)"],
+    "description": "Amylin protein forms amyloid deposits in pancreatic islets, contributing to β-cell dysfunction and insulin resistance.",
+    "mechanism": "IAPP misfolds and aggregates into amyloid fibrils in pancreatic β-cells, causing cellular stress and contributing to diabetes pathology.",
+    "symptoms": ["Hyperglycemia", "Insulin resistance", "Increased thirst", "Frequent urination", "Complications (neuropathy, retinopathy)"],
+    "treatments": {
+      "approved": ["Metformin", "Sulfonylureas", "DPP-4 inhibitors", "GLP-1 receptor agonists", "SGLT2 inhibitors", "Insulin therapy"],
+      "experimental": ["Amylin aggregation inhibitors", "β-cell regeneration therapy", "Gene therapy"],
+      "status": "Manageable - good glycemic control possible with treatment"
+    },
+    "prevalence": "537 million worldwide",
+    "research_status": "Active - focus on preventing β-cell loss"
+  },
+  "Cystic Fibrosis": {
+    "proteins": ["CFTR (Cystic Fibrosis Transmembrane Conductance Regulator)"],
+    "description": "Mutations in CFTR protein cause misfolding and degradation, leading to defective chloride transport and multi-organ dysfunction.",
+    "mechanism": "Misfolded CFTR (especially ΔF508 mutation) is retained in ER and degraded instead of reaching cell membrane, disrupting ion transport.",
+    "symptoms": ["Chronic lung infections", "Thick mucus", "Pancreatic insufficiency", "Poor growth", "Infertility"],
+    "treatments": {
+      "approved": ["CFTR modulators (Ivacaftor, Lumacaftor, Tezacaftor, Elexacaftor)", "Antibiotics", "Mucolytics", "Pancreatic enzymes", "Airway clearance therapy"],
+      "experimental": ["Gene therapy", "mRNA therapy", "Protein repair therapy"],
+      "status": "Treatable - CFTR modulators dramatically improve outcomes"
+    },
+    "prevalence": "70,000 worldwide",
+    "research_status": "Very active - modulators work for 90% of patients"
+  },
+  "Sickle Cell Disease": {
+    "proteins": ["Hemoglobin S (HbS)"],
+    "description": "Point mutation causes hemoglobin misfolding and polymerization, leading to sickle-shaped red blood cells and vaso-occlusive crises.",
+    "mechanism": "Glu→Val mutation at position 6 of β-globin causes HbS to polymerize when deoxygenated, distorting red blood cell shape.",
+    "symptoms": ["Pain crises", "Anemia", "Organ damage", "Infections", "Stroke risk"],
+    "treatments": {
+      "approved": ["Hydroxyurea", "L-glutamine", "Crizanlizumab", "Voxelotor", "Blood transfusions", "Bone marrow transplant", "Gene therapy (Casgevy, Lyfgenia)"],
+      "experimental": ["CRISPR gene editing", "Additional gene therapies", "Fetal hemoglobin inducers"],
+      "status": "Treatable and potentially curable with gene therapy"
+    },
+    "prevalence": "100,000 in USA, millions worldwide",
+    "research_status": "Revolutionary - gene therapy curative for many patients"
+  }
+}

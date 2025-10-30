@@ -1,0 +1,14 @@
+Protein_ID,Name,Sequence,Length,PDB_ID,Function,Organism
+SAMPLE_01,Short Peptide 1,ACDEFGH,7,N/A,Test sequence,Synthetic
+SAMPLE_02,Short Peptide 2,MKFLKF,6,N/A,Test sequence,Synthetic
+SAMPLE_03,Short Peptide 3,GACPKW,6,N/A,Test sequence,Synthetic
+SAMPLE_04,Short Peptide 4,ARNDCEQGHILK,12,N/A,Test sequence,Synthetic
+SAMPLE_05,Short Peptide 5,FVNQHLCGSHL,11,N/A,Test sequence,Synthetic
+INSULIN_HUMAN,Human Insulin Chain A,GIVEQCCTSICSLYQLENYCN,21,4INS,Blood glucose regulation,Homo sapiens
+HEMOGLOBIN_ALPHA,Hemoglobin Alpha Chain,VLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFP,38,1HBA,Oxygen transport,Homo sapiens
+CYTOCHROME_C,Cytochrome C (Fragment),GDVEKGKKIFIMKCSQCHT,19,1HRC,Electron transfer,Equus caballus
+LYSOZYME,Lysozyme C (Fragment),KVFGRCELAAAMKRHG,16,1LYZ,Antibacterial enzyme,Gallus gallus
+MYOGLOBIN,Myoglobin (Fragment),GLSDGEWQLVLNVWGKVE,18,1MBN,Oxygen storage,Physeter catodon
+UBIQUITIN,Ubiquitin (Fragment),MQIFVKTLTGKTITLEVEPS,20,1UBQ,Protein degradation,Homo sapiens
+TRYPSIN,Trypsin (Fragment),IVGGYTCGANTVPYQVSL,18,1TRN,Protein digestion,Bos taurus
+RIBONUCLEASE,Ribonuclease A (Fragment),KETAAAKFERQHMDSSTSAA,20,1RNS,RNA degradation,Bos taurus
